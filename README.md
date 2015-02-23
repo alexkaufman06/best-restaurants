@@ -1,6 +1,6 @@
 # Best Restaurants (Yelp Clone)
 
-This is an app where you can add restaurants and search by name, type, location or price. It was created to practice using Angular js directives.
+This is an app where you can add restaurants and search by name, type, location or price. It was created to practice using Angular js directives as well as Bootswatch themes.
 
 ## Setup Instructions:
 ```
