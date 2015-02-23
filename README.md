@@ -7,7 +7,7 @@ This is an app where you can add restaurants and search by name, type, location 
 Clone repository and open the index.html file.
 ```
 
-[View site here](http://alexkaufman06.github.io/bestRestaurants-js/)
+[View site here](http://alexkaufman06.github.io/best-restaurants/)
 
 ### Bug Reports:
 ```
