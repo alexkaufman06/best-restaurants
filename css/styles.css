@@ -5,3 +5,7 @@ a {
 a:hover {
   color:red;
 }
+
+input {
+  margin-right: 10px;
+}

@@ -1,5 +1,7 @@
 bestRestaurants.controller('RestaurantsCtrl', function RestaurantsCtrl($scope) {
-  $scope.restaurants = [];
+  $scope.restaurants = [
+  {name: "¿Porque No?", type: "Mexican", location: "Portland", price: "$$" }
+  ];
   $scope.addRestaurant = function() {
     $scope.restaurants.push({ name: $scope.restaurantName.charAt(0).toUpperCase() + $scope.restaurantName.slice(1),
                               type: $scope.restaurantType.charAt(0).toUpperCase() + $scope.restaurantType.slice(1),
