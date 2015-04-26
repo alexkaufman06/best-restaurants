@@ -10,7 +10,7 @@ Clone repository and open the index.html file.
 [View site here](http://alexkaufman06.github.io/best-restaurants/)
 
 ### Bug Reports:
-Currently, no database is synced and all data is stored in the DOM.  So, refreshing the page will delete any new restaurants added to the page.
+Currently, no database is synced and all data is stored in the DOM.  Thus, refreshing the page will delete any new restaurants added to the page.
 ### Author:
 Lizzie Koehler & Alex Kaufman
 #### License
